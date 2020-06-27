@@ -9,7 +9,9 @@ Un banco para crotos hecho por crotos
 - Extracción de divisas
 - Transferencias de divisas entre cuentas
 - Prestamos de divisas con dinero a cambio de un interes
-
+- Pago de servicios
+- Transferencias a CBU
+- Inversion de activos en fondos de inversion
 ## Sobre los créditos: 
 
 Se pueden otorgar a criterio de los administradores del banco a de los clientes con dinero depositado.
